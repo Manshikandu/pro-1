@@ -6,7 +6,7 @@ import { Route,Routes } from "react-router-dom";
 //import { Provider } from "@/components/chakra-ui/provider"
 //import { Provider } from "@/components/ui/provider"
 
-
+import { Button } from "@chakra-ui/react";
 
 function App() {
   
@@ -16,6 +16,7 @@ function App() {
 
    <>
     <p>Hello</p>
+    <button>Button</button>
     
     </>
    
